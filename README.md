@@ -15,7 +15,7 @@ i pedici di riga e colonna sono i = pedice riga e j = pedice colonna nel caso di
                                                                                                                          
                                             ESEMPIO DI MATRICE STRETTAMENTE INFERIORE
 											
- 						 					             0 0 0 0
+ 						 					                         0 0 0 0     
 														 7 0 0 0
 														 1 3 0 0
 														 0 1 3 0
